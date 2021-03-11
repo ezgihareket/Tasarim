@@ -134,7 +134,7 @@ class _ProfilPageState extends State<ProfilPage> {
           ),
           SizedBox(height: 10),
           Text(
-            "Ezgi Hareket",
+            "Kullanici",
             style: TextStyle(
               fontSize: 18,
               fontWeight: FontWeight.bold,

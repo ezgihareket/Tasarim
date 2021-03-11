@@ -15,19 +15,19 @@ class ChatScreen extends StatefulWidget {
 class _ChatScreenState extends State<ChatScreen> {
   List<ChatUsersList> chats = [
     ChatUsersList(
-      text: 'Samet Akbal',
+      text: 'Kullanici 2',
       secondaryText: 'iyi bende',
       image: 'assets/images/user5.png',
       time: 'Şimdi',
     ),
     ChatUsersList(
-      text: 'Ezgi Hareket',
+      text: 'Kullanici 1',
       secondaryText: 'Günaydın',
       image: 'assets/images/user2.png',
       time: '5 dakika',
     ),
     ChatUsersList(
-      text: 'Efdal Akın Barsan',
+      text: 'Kullanici 5',
       secondaryText: 'Kolay gelsin',
       image: 'assets/images/user1.png',
       time: 'Dün',

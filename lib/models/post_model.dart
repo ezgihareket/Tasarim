@@ -8,13 +8,13 @@ class Post {
 
 final List<Post> posts = [
   Post(
-    name: 'Ezgi Hareket',
+    name: 'Kullanici 1',
     imgUrl: 'assets/images/post4.jpg',
     authorImageUrl: 'assets/images/user2.png',
 
   ),
   Post(
-    name: 'Samet Akbal',
+    name: 'Kullanici 2',
     imgUrl: 'assets/images/user5.png',
     authorImageUrl: 'assets/images/user5.png',
   ),

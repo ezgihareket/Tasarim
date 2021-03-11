@@ -12,37 +12,37 @@ class Comment {
 
 final List<Comment> comments = [
   Comment(
-    name: 'Ilgın',
+    name: 'Kullanici 4',
     authorImageUrl: 'assets/images/user2.png',
     text: 'Harika resim',
   ),
   Comment(
-    name: 'Gizem',
+    name: 'Kullanici 5',
     authorImageUrl: 'assets/images/user3.png',
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   ),
   Comment(
-    name: 'Berna',
+    name: 'Kullanici 6',
     authorImageUrl: 'assets/images/user4.png',
     text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium',
   ),
   Comment(
-    name: 'Samet',
+    name: 'Kullanici 7',
     authorImageUrl: 'assets/images/user1.png',
     text: 'Nice job',
   ),
   Comment(
-    name: 'Eda',
+    name: 'Kullanici 8',
     authorImageUrl: 'assets/images/user0.png',
     text: 'Thanks everyone :)',
   ),
   Comment(
-    name: 'Zuhal',
+    name: 'Kullanici 9',
     authorImageUrl: 'assets/images/user4.png',
     text: 'Thanks everyone :)',
   ),
   Comment(
-    name: 'Tamay',
+    name: 'Kullanici 10',
     authorImageUrl: 'assets/images/user2.png',
     text: 'Wonderfull',
   ),
